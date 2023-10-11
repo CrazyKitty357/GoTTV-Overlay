@@ -5,3 +5,4 @@ Controls
 esc = close application  
 
 all global variables are stored in Global.gd  
+you need a twitch client id and secret and you can get both of those [here](https://dev.twitch.tv/console)
