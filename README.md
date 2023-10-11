@@ -3,3 +3,5 @@ This is a fork of [GoTTV](https://github.com/CrazyKitty357/GoTTV) which is a for
 
 Controls  
 esc = close application  
+
+all global variables are stored in Global.gd  
